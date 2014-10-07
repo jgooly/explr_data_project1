@@ -12,5 +12,3 @@ To run the R scripts, be sure to place the .txt data set in your working directo
 
 # Required packages
 In order to run the scripts, you will need to install the [Lubridate package](http://cran.r-project.org/web/packages/lubridate/index.html) from CRAN.
-
-## testing
